@@ -52,6 +52,7 @@ The dashboard enables stakeholders to quickly understand key performance indicat
 
 ## 📁 Dataset Used
 The dashboard uses a structured sales dataset containing transaction-level information.
+<a href="https://github.com/NandanPatra/E-Commerce-Sales-Analytics-Dashboard-/blob/main/Sales_Data_5000.xlsx">Data Set</a>
 
 **Dataset Details:**
 - Sales date and month  
