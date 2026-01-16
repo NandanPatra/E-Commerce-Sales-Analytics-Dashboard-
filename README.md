@@ -68,7 +68,8 @@ The dashboard uses a structured sales dataset containing transaction-level infor
 ---
 
 ## 🖼 Dashboard Preview
-![Sales Dashboard Preview](dashboard_preview.png)
+<img width="1203" height="675" alt="Screenshot 2026-01-17 033237" src="https://github.com/user-attachments/assets/1da677b7-533e-4f95-9fdf-7bf3e4464550" />
+
 
 ---
 
